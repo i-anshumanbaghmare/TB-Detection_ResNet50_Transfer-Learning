@@ -15,3 +15,13 @@ The core innovation of this project lies in the integration of Explainable AI (X
 *Performance Metrics:* Focuses on clinically relevant metrics such as Area Under the Curve (AUC), Recall, and Precision.
 
 *Framework:* TensorFlow 2.x and Keras.
+
+## Data
+kaggle : Chest X-ray Dataset_(Montgomery_and_Shenzhen)
+Chest X-ray Datasets: Montgomery County & Shenzhen Hospital
+Sources
+Montgomery County CXR Set
+https://data.lhncbc.nlm.nih.gov/public/Tuberculosis-Chest-X-ray-Datasets/Montgomery-County-CXR-Set/MontgomerySet/index.html
+
+Shenzhen Hospital CXR Set
+https://data.lhncbc.nlm.nih.gov/public/Tuberculosis-Chest-X-ray-Datasets/Shenzhen-Hospital-CXR-Set/index.html
